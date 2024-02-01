@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\WebAPI\MovieRecommender\MovieRecommender\bin\Debug\net8.0\MovieRecommenderMLModel.mlnet
+C:\Users\admin\Desktop\WebAPI\MovieRecommender\MovieRecommender\bin\Debug\net8.0\MovieRecommender.deps.json
+C:\Users\admin\Desktop\WebAPI\MovieRecommender\MovieRecommender\bin\Debug\net8.0\MovieRecommender.dll
+C:\Users\admin\Desktop\WebAPI\MovieRecommender\MovieRecommender\bin\Debug\net8.0\MovieRecommender.pdb
+C:\Users\admin\Desktop\WebAPI\MovieRecommender\MovieRecommender\obj\Debug\net8.0\MovieRecommender.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\WebAPI\MovieRecommender\MovieRecommender\obj\Debug\net8.0\MovieRecommender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\WebAPI\MovieRecommender\MovieRecommender\obj\Debug\net8.0\MovieRecommender.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\WebAPI\MovieRecommender\MovieRecommender\obj\Debug\net8.0\MovieRecommender.AssemblyInfo.cs
+C:\Users\admin\Desktop\WebAPI\MovieRecommender\MovieRecommender\obj\Debug\net8.0\MovieRecommender.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\WebAPI\MovieRecommender\MovieRecommender\obj\Debug\net8.0\MovieRecommender.dll
+C:\Users\admin\Desktop\WebAPI\MovieRecommender\MovieRecommender\obj\Debug\net8.0\refint\MovieRecommender.dll
+C:\Users\admin\Desktop\WebAPI\MovieRecommender\MovieRecommender\obj\Debug\net8.0\MovieRecommender.pdb
+C:\Users\admin\Desktop\WebAPI\MovieRecommender\MovieRecommender\obj\Debug\net8.0\ref\MovieRecommender.dll
